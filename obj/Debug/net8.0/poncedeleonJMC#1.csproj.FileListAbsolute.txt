@@ -31,3 +31,4 @@ C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#1\obj\Debug\net8.0\refint
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#1\obj\Debug\net8.0\poncedeleonJMC#1.pdb
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#1\obj\Debug\net8.0\poncedeleonJMC#1.genruntimeconfig.cache
 C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#1\obj\Debug\net8.0\ref\poncedeleonJMC#1.dll
+C:\Users\jtpg9\Documents\Academy\Level2\poncedeleonJMC#1\obj\Debug\net8.0\poncedeleonJMC#1.sourcelink.json
